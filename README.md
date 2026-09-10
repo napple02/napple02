@@ -37,7 +37,6 @@
 **そのほか**
 
 - [delay-bot](https://github.com/napple02/delay-bot) — 通勤路線の遅延情報を Alexa と Discord に通知
-- [awesome-design-md-jp](https://github.com/napple02/awesome-design-md-jp) — 日本語UIをAIエージェントに正しくつくらせるための `DESIGN.md` 集
 
 ---
 
