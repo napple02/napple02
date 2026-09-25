@@ -34,10 +34,6 @@
 - [tide-PDF](https://surf90.github.io/tide-PDF/) — 1か月分の潮汐表を A4 縦・モノクロ印刷用に出力
 - [rescue-sim](https://surf90.github.io/rescue-sim/) — 救助連携シミュレーター
 
-**そのほか**
-
-- [delay-bot](https://github.com/napple02/delay-bot) — 通勤路線の遅延情報を Alexa と Discord に通知
-
 ---
 
 ### 🧭 つくるときに大事にしていること
