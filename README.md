@@ -32,7 +32,7 @@
 - [ちがログ](https://surf90.github.io/chiga-log/) — 茅ヶ崎海岸の潮汐・波・水温・天気・注意報
 - [ちがビオ](https://surf90.github.io/chiga-bio/) — 茅ヶ崎の海辺〜町中の生き物ガイド（PWA・オフライン対応）
 - [tide-PDF](https://surf90.github.io/tide-PDF/) — 1か月分の潮汐表を A4 縦・モノクロ印刷用に出力
-- [rescue-sim](https://surf90.github.io/rescue-sim/) — 救助連携シミュレーター
+- [rescue-sim](https://surf90.github.io/rescue-sim/) — 救助連携シミュレーター［開発中］
 
 ---
 
